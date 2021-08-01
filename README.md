@@ -24,3 +24,7 @@ pip install captcha
 - Import module and create an instance of AudioCaptcha().
 - Create an audio object with audio.generate(CAPTCHA_Text)
 - Save the image to file audio.write()
+
+#### Output:
+https://user-images.githubusercontent.com/69134468/127765134-d7c735dc-1e20-4b7c-8773-4412f1a74779.mp4
+
